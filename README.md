@@ -1,7 +1,12 @@
 # GrasshopperChallenges
+# Grasshopper 
 ![gif example](https://raw.githubusercontent.com/provolot/GrasshopperChallenges/master/Challenge_GIFs/ChallengeAExample.gif)
 
 **GrasshopperChallenges** are a set of challenges *designed* to teach Grasshopper, by creating a set of active learning / problem-solving challenges. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time.
+
+**Grasshopper挑战** 是一组为GH教学设计的挑战，旨在创造一组积极学习/问题解决式的挑战。这些挑战的设计很有趣，并限制了问题的复杂性，因此初学者可以一次解决GH的一小部分。
+
+Translated by maajor, 2016.
 
 References / precedents:
 
